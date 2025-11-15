@@ -191,7 +191,6 @@ public class PhoneMenu {
                 }
             }
 
-            default -> System.out.println("Invalid menu choice");
         }
     }
 }
